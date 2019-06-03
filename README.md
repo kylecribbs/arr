@@ -1,6 +1,8 @@
 Sonarr and Radarr API Python Wrapper
 ==========================
 
+Forked from [SLiX69/Sonarr-API-Python-Wrapper](https://github.com/SLiX69/Sonarr-API-Python-Wrapper)
+
 Unofficial Python Wrapper for the [Sonarr](https://github.com/Sonarr/Sonarr) and [Radarr](https://github.com/Radarr/Radarr) API. We currently only support Sonarr and have not tested for Radarr. 
 
 ### Requirements
